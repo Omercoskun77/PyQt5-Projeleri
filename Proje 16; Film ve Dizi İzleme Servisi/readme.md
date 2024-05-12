@@ -33,3 +33,13 @@ Kodun nasıl çalıştığı ve yapılandırıldığı hakkında ayrıntılı bi
 ## Lisans
 
 Bu proje [MIT Lisansı](https://choosealicense.com/licenses/mit/) altında lisanslanmıştır.
+
+## Proje görselleri
+
+![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/6f77cde7-1778-4d25-a45c-138c643fb27b)
+![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/c4004892-4bbb-4159-965c-9b0b0eab5bea)
+![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/19289c66-38bb-4380-a8d2-07a8f1253499)
+![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/47f60149-6907-4564-a9c4-c44a71732011)
+
+
+
