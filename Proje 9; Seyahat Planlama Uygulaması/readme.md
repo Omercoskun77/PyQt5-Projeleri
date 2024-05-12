@@ -11,7 +11,7 @@ Bu uygulama, kullanıcıların seyahat rotalarını oluşturmasına, konaklama s
 
 ## Kurulum
 
-1. Projeyi klonlayın veya indirin :
+1. Projeyi klonlayın veya indirin:
 git clone https://github.com/kullaniciadi/seyahat-planlama-uygulamasi.git
 2. Gerekli Python kütüphanelerini kurun:
 pip install PyQt5
