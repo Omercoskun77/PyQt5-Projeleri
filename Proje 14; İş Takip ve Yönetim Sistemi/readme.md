@@ -35,7 +35,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## Uygulamanın görselleri
 
-![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/ba1dea75-ff77-47c4-ad56-b8c9604f4e0f)
+![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/808ee84e-8931-4574-b8b5-97b320a20471)
 ![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/00e62f4c-eff5-4854-a7b6-6055e2322483)
 
 
