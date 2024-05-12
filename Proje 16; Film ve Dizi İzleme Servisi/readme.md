@@ -1,34 +1,30 @@
 # Film ve Dizi İzleme Servisi
 
-Bu proje, kullanıcıların film ve dizileri takip edebilecekleri, izleme listeleri oluşturabilecekleri ve içerikleri izleyebilecekleri bir servis sunmaktadır.
+Bu proje, Python ve PyQt5 kütüphanesi kullanılarak geliştirilmiş bir film ve dizi izleme uygulamasıdır. Uygulama, yönetici ve kullanıcı modları sunmaktadır. Yönetici modu, film ve dizi ekleme, silme ve düzenleme işlemlerini gerçekleştirebilirken, kullanıcı modu film ve dizi izleme imkanı sunmaktadır.
 
 ## Özellikler
 
-- Filmlerin ve dizilerin eklenmesi
-- Kullanıcıların kendi izleme listelerini oluşturması
-- İçeriklerin izlenebilmesi
-- Kullanıcı hesaplarının yönetimi
+- Yönetici modunda film ve dizi ekleme, silme ve düzenleme
+- Kullanıcı modunda film ve dizi izleme
+- İzlenecekler listesi oluşturma ve yönetme
+- Sezon ve bölüm seçme özelliği (diziler için)
+- Video oynatma, durdurma ve ileri/geri sarma
 
 ## Kurulum
 
-1. Bu depoyu klonlayın veya indirin.
-2. Gerekli kütüphaneleri yükleyin: `pip install PyQt5`
-3. `main.py` dosyasını çalıştırın.
+1. Öncelikle Python'un yüklü olduğundan emin olun.
+2. Ardından, PyQt5 kütüphanesini aşağıdaki komutla kurun:
+pip install PyQt5
+3. Depoyu klonlayın veya dosyaları indirin.
+4. `main.py` dosyasını çalıştırın.
 
 ## Kullanım
 
-Programı çalıştırdıktan sonra, konsol arayüzünden aşağıdaki işlemleri gerçekleştirebilirsiniz:
-
-1. Kullanıcı kaydı
-2. Kullanıcı girişi
-3. Film/dizi ekleme
-4. İzleme listesi oluşturma
-5. İçerik izleme
-6. İzleme geçmişini görüntüleme
-
-## Geliştirme
-
-Kodun nasıl çalıştığı ve yapılandırıldığı hakkında ayrıntılı bilgi için `docs/technical_documentation.md` dosyasına bakabilirsiniz.
+1. Uygulama başladığında giriş ekranı karşınıza gelecektir.
+2. Yönetici olarak giriş yapmak için `admin` kullanıcı adı ve `admin123` şifresini kullanın.
+3. Kullanıcı olarak giriş yapmak için `kullanıcı1903` kullanıcı adı ve `12345` şifresini kullanın.
+4. Yönetici modunda film ve dizi ekleyebilir, silebilir ve düzenleyebilirsiniz.
+5. Kullanıcı modunda mevcut film ve dizileri izleyebilir, izlenecekler listesi oluşturabilirsiniz.
 
 ## Lisans
 
