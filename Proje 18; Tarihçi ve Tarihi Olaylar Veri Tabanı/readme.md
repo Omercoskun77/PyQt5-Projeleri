@@ -19,7 +19,7 @@ Bu proje, Python ve PyQt5 kütüphanesi kullanılarak geliştirilmiş bir tarihi
 
 1. Projeyi indirin veya klonlayın.
 2. Terminali açın ve proje dizinine gidin.
-3. Aşağıdaki komutu çalıştırın: python tarihveritabani.py
+3. Aşağıdaki komutu çalıştırın : python tarihveritabani.py
 4. Uygulama penceresi açılacaktır.
 5. Olayları, şahsiyetleri ve dönemleri ekleyebilir, görüntüleyebilir ve silebilirsiniz.
 6. Uygulamayı kapatmak için pencereyi kapatın.
