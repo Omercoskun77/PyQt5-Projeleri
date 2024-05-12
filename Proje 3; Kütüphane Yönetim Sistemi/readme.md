@@ -37,5 +37,3 @@ Eğer herhangi bir hata, öneri veya geliştirme fikriniz varsa, lütfen bir Iss
 
 ## Uygulama Görselleri
 ![Screenshot_15](https://github.com/numyy/Python-pyqt5-Projeleri/assets/148050750/6c69bac2-095e-418e-ba5a-aa1a390ad72b)
-
-## Dosya Yapısı
