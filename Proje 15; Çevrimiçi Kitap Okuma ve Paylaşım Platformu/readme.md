@@ -48,7 +48,6 @@ Bu proje, Python ve PyQt5 kütüphanesi kullanılarak geliştirilmiş bir Çevri
 ![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/dc5b8976-c7cf-43e3-9102-761c451610ba)
 ![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/98923bdd-0c20-4004-afcd-a7d740c7107f)
 ![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/1d818d00-f086-4bde-8029-0baaa32430f7)
-![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/994918ea-89af-4ccc-a989-1c4dab3e3eda)
 ![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/d0be3565-cf50-4474-a3ea-0667afbf846b)
 ![image](https://github.com/Omercoskun77/PyQt5-Projeleri/assets/167522812/da1ca1d6-2f86-4185-8545-7b533484c6e8)
 
